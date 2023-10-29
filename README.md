@@ -1,4 +1,4 @@
-# nike-shoes-landing-page
+# Nike-Shoes-Landing-Page
  Make Animated Nike Shoes Landing Page with only HTML, CSS & pure JS
 
 
